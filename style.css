@@ -1,0 +1,50 @@
+body{
+    background-position: center;
+    background-image: linear-gradient(white,rgb(25, 213, 182));
+
+}
+
+th, td{
+    border: 1px solid;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+
+h1{
+    color: black;
+}
+
+input{
+    display: block;
+    margin-bottom: 30px;
+}
+.cotainer{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+button{
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+button{
+    background-color: rgb(137, 139, 126);
+    color: Black;
+    font-weight:bolder;
+    border-style:solid;
+    height: 40px;
+    justify-content: center;
+}
+button:hover{
+    background-color: grey;
+}
+.table{
+text-align: center;
+justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
